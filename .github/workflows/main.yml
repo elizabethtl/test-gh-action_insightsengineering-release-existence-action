@@ -13,4 +13,4 @@ jobs:
         uses: elizabethtl/hello-world-composite-action@v1
         with:
           who-to-greet: 'Mona the Octocat'
-      - uses: insightsengineering/release-existence-action
+      - uses: insightsengineering/release-existence-action@main
